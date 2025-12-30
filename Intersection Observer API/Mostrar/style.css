@@ -1,0 +1,12 @@
+/* Estado inicial: invisível */
+.box {
+  opacity: 0;                /* invisível */
+  transform: translateY(40px); /* deslocado para baixo */
+  transition: 0.6s ease;     /* animação suave */
+}
+
+/* Estado quando a classe "show" é adicionada */
+.box.show {
+  opacity: 1;                /* visível */
+  transform: translateY(0);  /* posição normal */
+}
