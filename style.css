@@ -930,8 +930,6 @@ header {
 
     .home-content-2 {
     padding-top: 50px;
-    text-align: center;
-    align-items: center;
     display: flex;
     flex-direction: column;
   }
@@ -1090,6 +1088,19 @@ header {
   text-align: center;
   background-color: #d81aaf;
  
+}
+/* PERFIL */
+.topo{
+  background-color: #1ed760;
+}
+
+/* PERFIL */
+.foto{
+  background-color: #3dbaeb;
+}
+
+
+
 
 /* HOME CONTENT */
 .home-content {
@@ -1098,7 +1109,7 @@ header {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  background-color: #00b7ff;
+
  }
 
 
