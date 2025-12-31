@@ -600,8 +600,7 @@ header {
 
 /* SOBRE */
 .sobre{
-  height: 40vw;
-  min-height: 100vh;
+  min-height: 40vh;
   height: auto;
 
 }
@@ -612,20 +611,21 @@ header {
 
 .bands,
 .band {
-  max-width: 200vw;
+  max-width: 300vw;
   overflow: hidden;
-  width: 140vw;       /* passa da tela pros lados */
+  width: 200vw;       /* passa da tela pros lados */
   left: 0;        /* centraliza visualmente */
   position: relative;
+  background-color: #BEFA0A;
 
 }
 
 
 .bands {
-  margin-top: -120px; 
+  margin-top: -20px; 
   position: relative;
   width: 100%;
-  min-height: 45vh; /* ocupa a tela inteira */
+  min-height: 50vh; /* ocupa a tela inteira */
   display: flex;
   flex-direction: column;
   justify-content: center; /* centraliza vertical */
@@ -659,6 +659,13 @@ header {
   transform-origin: center;
   transform: translate(-50%, -50%) rotate(-8deg);
 }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .bands {
+    min-height: 30vh;
+  }
+}
+
 
 /* FAIXA AZUL */
 .band-3 {
@@ -1109,11 +1116,9 @@ header {
   flex-direction: column;
   align-items: center;
   text-align: center;
+  background-color: #3dbaeb;
 
  }
-
-
-}
 
 /* DESCRITIVOS */
 .descritivo,
