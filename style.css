@@ -666,6 +666,25 @@ header {
   }
 }
 
+/* PERFIL 2 */
+.perfil-2 {
+  background-color: #ff9900ef;
+  width: 100%;
+  max-width: 280px; /* largura da foto no iPhone */
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .perfil-2 {
+    max-width: 320px; /* acompanha a foto no iPad */
+  }
+}
+
+@media (min-width: 1024px) {
+  .perfil-2 {
+    max-width: 380px; /* acompanha a foto no desktop */
+  }
+}
 
 /* FAIXA AZUL */
 .band-3 {
