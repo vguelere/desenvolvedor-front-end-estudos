@@ -1,0 +1,32 @@
+// <weight>: Use a value from 400 to 700
+// <uniquifier>: Use a unique and descriptive class name
+
+.google-sans-<uniquifier> {
+  font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
+
+
+body {
+  background: #eee;
+  font-family: "Google Sans";
+
+}
+
+.card {
+  background: #ffffff;
+  padding: 20px;
+  width: 260px;
+  text-align: center;
+  border-radius: 12px;
+  box-shadow: 0 10px 20px rgba(0,0,0,.2);
+}
+
+.card img {
+  width: 140px;
+}
+
