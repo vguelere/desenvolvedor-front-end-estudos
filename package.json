@@ -1,0 +1,25 @@
+{
+  "name": "desenvolvedor-front-end-estudos",
+  "version": "1.0.0",
+  "description": "Este repositório reúne meus estudos em **JavaScript, HTML e CSS**, com foco em dominar os fundamentos e aplicar os conceitos em pequenos projetos e práticas diárias.",
+  "main": "mobile-navbar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vguelere/desenvolvedor-front-end-estudos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vguelere/desenvolvedor-front-end-estudos/issues"
+  },
+  "homepage": "https://github.com/vguelere/desenvolvedor-front-end-estudos#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  }
+}
