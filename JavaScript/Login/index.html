@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cadastro</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+      background: #eef1f5;
+      color: #1f2933;
+    }
+
+    .login {
+      width: 100%;
+      max-width: 360px;
+      margin: 16px;
+      padding: 32px 28px;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    }
+
+    .login h1 {
+      margin: 0 0 24px;
+      font-size: 1.5rem;
+      font-weight: 600;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 0.9rem;
+      font-weight: 500;
+    }
+
+    input {
+      width: 100%;
+      padding: 10px 12px;
+      margin-bottom: 18px;
+      font-size: 1rem;
+      border: 1px solid #c5ccd6;
+      border-radius: 6px;
+    }
+
+    input:focus {
+      outline: 2px solid #2563eb;
+      outline-offset: 1px;
+      border-color: #2563eb;
+    }
+
+    button {
+      width: 100%;
+      padding: 11px;
+      font-size: 1rem;
+      font-weight: 600;
+      color: #fff;
+      background: #2563eb;
+      border: 0;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #1d4ed8;
+    }
+
+    .campo-senha {
+      position: relative;
+      margin-bottom: 18px;
+    }
+
+    .campo-senha input {
+      margin-bottom: 0;
+      padding-right: 44px;
+    }
+
+    .olho {
+      position: absolute;
+      top: 50%;
+      right: 6px;
+      transform: translateY(-50%);
+      width: 34px;
+      height: 34px;
+      padding: 0;
+      display: grid;
+      place-items: center;
+      color: #64748b;
+      background: transparent;
+      border-radius: 6px;
+    }
+
+    .olho:hover {
+      color: #1f2933;
+      background: #eef1f5;
+    }
+
+    .olho:focus-visible {
+      outline: 2px solid #2563eb;
+    }
+
+    .olho svg {
+      width: 20px;
+      height: 20px;
+    }
+
+    .olho .riscado {
+      display: none;
+    }
+
+    .olho.ativo .riscado {
+      display: block;
+    }
+
+    .sucesso {
+      text-align: center;
+    }
+
+    .sucesso h1 {
+      color: #16a34a;
+      margin-bottom: 12px;
+    }
+
+    .sucesso p {
+      margin-bottom: 24px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <main class="login" id="cadastro">
+
+    <h1>Cadastro</h1>
+
+    <form id="formCadastro">
+
+      <label for="usuario">Usuário</label>
+
+      <input
+        type="text"
+        id="usuario"
+        name="usuario"
+        maxlength="4"
+        required
+      >
+
+      <label for="senha">Senha</label>
+
+      <div class="campo-senha">
+        <input
+          type="password"
+          id="senha"
+          name="senha"
+          maxlength="6"
+          required
+        >
+        <button type="button" class="olho" aria-label="Mostrar senhas" aria-pressed="false">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M1 12s4-7 11-7 11 7 11 7-4 7-11 7S1 12 1 12z"/>
+            <circle cx="12" cy="12" r="3"/>
+            <line class="riscado" x1="3" y1="3" x2="21" y2="21"/>
+          </svg>
+        </button>
+      </div>
+
+      <label for="confirmarSenha">Confirmar senha</label>
+
+      <div class="campo-senha">
+        <input
+          type="password"
+          id="confirmarSenha"
+          name="confirmarSenha"
+          maxlength="6"
+          required
+        >
+        <button type="button" class="olho" aria-label="Mostrar senhas" aria-pressed="false">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M1 12s4-7 11-7 11 7 11 7-4 7-11 7S1 12 1 12z"/>
+            <circle cx="12" cy="12" r="3"/>
+            <line class="riscado" x1="3" y1="3" x2="21" y2="21"/>
+          </svg>
+        </button>
+      </div>
+
+      <button type="submit">Cadastrar</button>
+
+    </form>
+
+  </main>
+
+  <script src="javascript.js"></script>
+
+</body>
+</html>

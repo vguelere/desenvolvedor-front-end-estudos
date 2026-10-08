@@ -1,0 +1,123 @@
+﻿C:\Projetos\desenvolvedor-front-end-estudos\arquivos.txt
+C:\Projetos\desenvolvedor-front-end-estudos\index.html
+C:\Projetos\desenvolvedor-front-end-estudos\main.jpg
+C:\Projetos\desenvolvedor-front-end-estudos\main.png
+C:\Projetos\desenvolvedor-front-end-estudos\mobile-navbar.js
+C:\Projetos\desenvolvedor-front-end-estudos\README.md
+C:\Projetos\desenvolvedor-front-end-estudos\.git\config
+C:\Projetos\desenvolvedor-front-end-estudos\.git\description
+C:\Projetos\desenvolvedor-front-end-estudos\.git\HEAD
+C:\Projetos\desenvolvedor-front-end-estudos\.git\index
+C:\Projetos\desenvolvedor-front-end-estudos\.git\packed-refs
+C:\Projetos\desenvolvedor-front-end-estudos\.git\hooks\applypatch-msg.sample
+C:\Projetos\desenvolvedor-front-end-estudos\.git\hooks\commit-msg.sample
+C:\Projetos\desenvolvedor-front-end-estudos\.git\hooks\fsmonitor-watchman.sample
+C:\Projetos\desenvolvedor-front-end-estudos\.git\hooks\post-update.sample
+C:\Projetos\desenvolvedor-front-end-estudos\.git\hooks\pre-applypatch.sample
+C:\Projetos\desenvolvedor-front-end-estudos\.git\hooks\pre-commit.sample
+C:\Projetos\desenvolvedor-front-end-estudos\.git\hooks\pre-merge-commit.sample
+C:\Projetos\desenvolvedor-front-end-estudos\.git\hooks\pre-push.sample
+C:\Projetos\desenvolvedor-front-end-estudos\.git\hooks\pre-rebase.sample
+C:\Projetos\desenvolvedor-front-end-estudos\.git\hooks\pre-receive.sample
+C:\Projetos\desenvolvedor-front-end-estudos\.git\hooks\prepare-commit-msg.sample
+C:\Projetos\desenvolvedor-front-end-estudos\.git\hooks\push-to-checkout.sample
+C:\Projetos\desenvolvedor-front-end-estudos\.git\hooks\sendemail-validate.sample
+C:\Projetos\desenvolvedor-front-end-estudos\.git\hooks\update.sample
+C:\Projetos\desenvolvedor-front-end-estudos\.git\info\exclude
+C:\Projetos\desenvolvedor-front-end-estudos\.git\logs\HEAD
+C:\Projetos\desenvolvedor-front-end-estudos\.git\logs\refs\heads\main
+C:\Projetos\desenvolvedor-front-end-estudos\.git\logs\refs\remotes\origin\HEAD
+C:\Projetos\desenvolvedor-front-end-estudos\.git\objects\pack\pack-cbc88cf8e46e2f5532b6459c3e73f0110bdf1b65.idx
+C:\Projetos\desenvolvedor-front-end-estudos\.git\objects\pack\pack-cbc88cf8e46e2f5532b6459c3e73f0110bdf1b65.pack
+C:\Projetos\desenvolvedor-front-end-estudos\.git\objects\pack\pack-cbc88cf8e46e2f5532b6459c3e73f0110bdf1b65.rev
+C:\Projetos\desenvolvedor-front-end-estudos\.git\refs\heads\main
+C:\Projetos\desenvolvedor-front-end-estudos\.git\refs\remotes\origin\HEAD
+C:\Projetos\desenvolvedor-front-end-estudos\Card Pokemon\index.html
+C:\Projetos\desenvolvedor-front-end-estudos\Card Pokemon\pokemon.json
+C:\Projetos\desenvolvedor-front-end-estudos\Card Pokemon\script.js
+C:\Projetos\desenvolvedor-front-end-estudos\Card Pokemon\style.css
+C:\Projetos\desenvolvedor-front-end-estudos\css\style.css
+C:\Projetos\desenvolvedor-front-end-estudos\Display\index.html
+C:\Projetos\desenvolvedor-front-end-estudos\Display\style.css
+C:\Projetos\desenvolvedor-front-end-estudos\icons\css.svg
+C:\Projetos\desenvolvedor-front-end-estudos\icons\design.svg
+C:\Projetos\desenvolvedor-front-end-estudos\icons\git.svg
+C:\Projetos\desenvolvedor-front-end-estudos\icons\html5.svg
+C:\Projetos\desenvolvedor-front-end-estudos\icons\javascript.svg
+C:\Projetos\desenvolvedor-front-end-estudos\icons\mail.svg
+C:\Projetos\desenvolvedor-front-end-estudos\icons\packing.svg
+C:\Projetos\desenvolvedor-front-end-estudos\icons\planning.svg
+C:\Projetos\desenvolvedor-front-end-estudos\icons\social.svg
+C:\Projetos\desenvolvedor-front-end-estudos\icons\whats.svg
+C:\Projetos\desenvolvedor-front-end-estudos\imagens\dev.png
+C:\Projetos\desenvolvedor-front-end-estudos\imagens\dev2.png
+C:\Projetos\desenvolvedor-front-end-estudos\imagens\dev3.png
+C:\Projetos\desenvolvedor-front-end-estudos\imagens\dev4.png
+C:\Projetos\desenvolvedor-front-end-estudos\imagens\inova.webp
+C:\Projetos\desenvolvedor-front-end-estudos\imagens\seta-5.png
+C:\Projetos\desenvolvedor-front-end-estudos\imagens\seta.png
+C:\Projetos\desenvolvedor-front-end-estudos\imagens\seta2.png
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\book1.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\dia-da-semana.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\else-if-idade
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\else-if-idade.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\Entrada-de-dados-2.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\Entrada-de-Dados-Vinicius
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\Entrada-de-Dados-Vinicius.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\Entrada_de_Dados.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\Entrada_de_Dados_Exemplo_2.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\Exercicio-de-entrada-de-dados
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\Exercicio-de-entrada-de-dados.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\Exercicio_1_IF_Verificacao_de_idade.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\mairo-de-idade.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\mairo-e-menor.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\numeros.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\par-e-impar.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\par-e-impar.txt
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\tipos-de-dados.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\Tipos_de_Dados.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\var_let_const_.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\@arquivos\JAVA_SCRIPT_O_GUIA_DEFINITIVO_PT_BR.pdf
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\Calculadora\calculadora.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\Switch\mesdoano.js
+C:\Projetos\desenvolvedor-front-end-estudos\JavaScript\Switch\switch.js
+C:\Projetos\desenvolvedor-front-end-estudos\js\script.js
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Intersection Observer API\Animar 2\index.html
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Intersection Observer API\Animar 2\script.js
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Intersection Observer API\Animar 2\style.css
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Intersection Observer API\Mostrar\index.html
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Intersection Observer API\Mostrar\script.js
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Intersection Observer API\Mostrar\style.css
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\index.html
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\js\index.js
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\src\css\style.css
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\src\imagens\cloud-intelligence.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\src\imagens\cloud-service.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\src\imagens\data-analytics.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\src\imagens\desenvolvimento-de-aplicativos.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\src\imagens\desenvolvimento-web.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\src\imagens\ft2.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\src\imagens\ft3.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\src\imagens\ft5.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\src\imagens\img-principal.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\src\imagens\logo.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\src\imagens\responsive.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\src\imagens\seta-branca.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\src\imagens\seta.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Landing Page Jaque\src\js\index.js
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Site\index.html
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Site\main.jpg
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Site\main.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Site\script.js
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Site\style.css
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Site\imagens\dev.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Site\imagens\dev2.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Site\imagens\dev3.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Site\imagens\dev4.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Site\imagens\inova.webp
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Site\imagens\seta-5.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Site\imagens\seta.png
+C:\Projetos\desenvolvedor-front-end-estudos\Portfolio Front End\Site\imagens\seta2.png
+C:\Projetos\desenvolvedor-front-end-estudos\To-Do-List\index.html
+C:\Projetos\desenvolvedor-front-end-estudos\To-Do-List\scripts.js
+C:\Projetos\desenvolvedor-front-end-estudos\To-Do-List\style.css
